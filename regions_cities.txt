@@ -1,0 +1,300 @@
+Region: Europe, City: Tirana
+Region: Africa, City: Algiers
+Region: Africa, City: Annaba
+Region: Africa, City: Oran
+Region: Africa, City: Luanda
+Region: South America, City: Buenos Aires
+Region: South America, City: Córdoba
+Region: South America, City: Neuquen
+Region: Middle East, City: Yerevan
+Region: Oceania, City: Adelaide
+Region: Oceania, City: Brisbane
+Region: Oceania, City: Canberra
+Region: Oceania, City: Hobart
+Region: Oceania, City: Melbourne
+Region: Oceania, City: Perth
+Region: Oceania, City: Sydney
+Region: Europe, City: Vienna
+Region: Middle East, City: Astara
+Region: Middle East, City: Baku
+Region: Middle East, City: Manama
+Region: Asia Pacific, City: Chittagong
+Region: Asia Pacific, City: Dhaka
+Region: Asia Pacific, City: Jashore
+Region: North America, City: Bridgetown
+Region: Europe, City: Minsk
+Region: Europe, City: Brussels
+Region: Asia Pacific, City: Thimphu
+Region: South America, City: La Paz
+Region: Africa, City: Gaborone
+Region: South America, City: Americana
+Region: South America, City: Aracatuba
+Region: South America, City: Belém
+Region: South America, City: Belo Horizonte
+Region: South America, City: Blumenau
+Region: South America, City: Brasilia
+Region: South America, City: Cacador
+Region: South America, City: Campinas
+Region: South America, City: Campos dos Goytacazes
+Region: South America, City: Chapeco
+Region: South America, City: Cuiaba
+Region: South America, City: Curitiba
+Region: South America, City: Florianopolis
+Region: South America, City: Fortaleza
+Region: South America, City: Goiania
+Region: South America, City: Itajai
+Region: South America, City: Joinville
+Region: South America, City: Juazeiro do Norte
+Region: South America, City: Manaus
+Region: South America, City: Palmas
+Region: South America, City: Porto Alegre
+Region: South America, City: Recife
+Region: South America, City: Ribeirao Preto
+Region: South America, City: Rio de Janeiro
+Region: South America, City: Salvador
+Region: South America, City: São José do Rio Preto
+Region: South America, City: São José dos Campos
+Region: South America, City: São Paulo
+Region: South America, City: Sorocaba
+Region: South America, City: Timbo
+Region: South America, City: Uberlandia
+Region: South America, City: Vitoria
+Region: Asia Pacific, City: Bandar Seri Begawan
+Region: Europe, City: Sofia
+Region: Africa, City: Ouagadougou
+Region: Asia Pacific, City: Phnom Penh
+Region: North America, City: Calgary
+Region: North America, City: Vancouver
+Region: North America, City: Winnipeg
+Region: North America, City: Halifax
+Region: North America, City: Ottawa
+Region: North America, City: Toronto
+Region: North America, City: Montréal
+Region: North America, City: Saskatoon
+Region: South America, City: Arica
+Region: South America, City: Santiago
+Region: South America, City: Barranquilla
+Region: South America, City: Bogota
+Region: South America, City: Medellín
+Region: Africa, City: Kinshasa
+Region: South America, City: San José
+Region: Africa, City: Abidjan
+Region: Africa, City: Yamoussoukro
+Region: Europe, City: Zagreb
+Region: Europe, City: Nicosia
+Region: Europe, City: Prague
+Region: Europe, City: Copenhagen
+Region: Africa, City: Djibouti
+Region: North America, City: Santiago de los Caballeros
+Region: North America, City: Santo Domingo
+Region: South America, City: Guayaquil
+Region: South America, City: Quito
+Region: Africa, City: Cairo
+Region: Europe, City: Tallinn
+Region: Oceania, City: Suva
+Region: Europe, City: Helsinki
+Region: Europe, City: Bordeaux
+Region: Europe, City: Lyon
+Region: Europe, City: Marseille
+Region: Europe, City: Paris
+Region: Oceania, City: Tahiti
+Region: Europe, City: Tbilisi
+Region: Europe, City: Berlin
+Region: Europe, City: Düsseldorf
+Region: Europe, City: Frankfurt
+Region: Europe, City: Hamburg
+Region: Europe, City: Munich
+Region: Europe, City: Stuttgart
+Region: Africa, City: Accra
+Region: Europe, City: Athens
+Region: Europe, City: Thessaloniki
+Region: South America, City: St. George's
+Region: Asia Pacific, City: Hagatna
+Region: North America, City: Guatemala City
+Region: South America, City: Georgetown
+Region: South America, City: Tegucigalpa
+Region: Asia Pacific, City: Hong Kong
+Region: Europe, City: Budapest
+Region: Europe, City: Reykjavík
+Region: Asia Pacific, City: Ahmedabad
+Region: Asia Pacific, City: Bangalore
+Region: Asia Pacific, City: Bhubaneswar
+Region: Asia Pacific, City: Chandigarh
+Region: Asia Pacific, City: Chennai
+Region: Asia Pacific, City: Hyderabad
+Region: Asia Pacific, City: Kannur
+Region: Asia Pacific, City: Kanpur
+Region: Asia Pacific, City: Kochi
+Region: Asia Pacific, City: Kolkata
+Region: Asia Pacific, City: Mumbai
+Region: Asia Pacific, City: Nagpur
+Region: Asia Pacific, City: New Delhi
+Region: Asia Pacific, City: Patna
+Region: Asia Pacific, City: Denpasar
+Region: Asia Pacific, City: Jakarta
+Region: Asia Pacific, City: Yogyakarta
+Region: Middle East, City: Baghdad
+Region: Middle East, City: Basra
+Region: Middle East, City: Erbil
+Region: Middle East, City: Najaf
+Region: Middle East, City: Nasiriyah
+Region: Middle East, City: Sulaymaniyah
+Region: Europe, City: Cork
+Region: Europe, City: Dublin
+Region: Middle East, City: Haifa
+Region: Middle East, City: Tel Aviv
+Region: Europe, City: Milan
+Region: Europe, City: Palermo
+Region: Europe, City: Rome
+Region: North America, City: Kingston
+Region: Asia Pacific, City: Fukuoka
+Region: Asia Pacific, City: Naha
+Region: Asia Pacific, City: Osaka
+Region: Asia Pacific, City: Tokyo
+Region: Middle East, City: Amman
+Region: Asia Pacific, City: Almaty
+Region: Asia Pacific, City: ASTANA
+Region: Africa, City: Mombasa
+Region: Africa, City: Nairobi
+Region: Asia Pacific, City: Seoul
+Region: Middle East, City: Kuwait City
+Region: Asia Pacific, City: Vientiane
+Region: Europe, City: Riga
+Region: Middle East, City: Beirut
+Region: Europe, City: Vilnius
+Region: Europe, City: Luxembourg City
+Region: Asia Pacific, City: Macau
+Region: Africa, City: Antananarivo
+Region: Asia Pacific, City: Johor Bahru
+Region: Asia Pacific, City: Kuala Lumpur
+Region: Asia Pacific, City: Male
+Region: Africa, City: Port Louis
+Region: North America, City: Guadalajara
+Region: North America, City: Mexico City
+Region: North America, City: Queretaro
+Region: Europe, City: Chișinău
+Region: Asia Pacific, City: Ulaanbaatar
+Region: Africa, City: Maputo
+Region: Asia Pacific, City: Mandalay
+Region: Asia Pacific, City: Yangon
+Region: Africa, City: Windhoek
+Region: Asia Pacific, City: Kathmandu
+Region: Europe, City: Amsterdam
+Region: Oceania, City: Noumea
+Region: Oceania, City: Auckland
+Region: Oceania, City: Christchurch
+Region: Africa, City: Lagos
+Region: Europe, City: Skopje
+Region: Europe, City: Oslo
+Region: Middle East, City: Muscat
+Region: Asia Pacific, City: Islamabad
+Region: Asia Pacific, City: Karachi
+Region: Asia Pacific, City: Lahore
+Region: Middle East, City: Ramallah
+Region: South America, City: Panama City
+Region: South America, City: Asunción
+Region: South America, City: Lima
+Region: Asia Pacific, City: Cagayan de Oro
+Region: Asia Pacific, City: Cebu
+Region: Asia Pacific, City: Manila
+Region: Asia Pacific, City: Tarlac City
+Region: Europe, City: Warsaw
+Region: Europe, City: Lisbon
+Region: North America, City: San Juan
+Region: Middle East, City: Doha
+Region: Africa, City: Saint-Denis
+Region: Europe, City: Bucharest
+Region: Asia Pacific, City: Krasnoyarsk
+Region: Europe, City: Moscow
+Region: Europe, City: Saint Petersburg
+Region: Europe, City: Tver
+Region: Asia Pacific, City: Yekaterinburg
+Region: Africa, City: Kigali
+Region: Middle East, City: Dammam
+Region: Middle East, City: Jeddah
+Region: Middle East, City: Riyadh
+Region: Africa, City: Dakar
+Region: Europe, City: Belgrade
+Region: Asia Pacific, City: Singapore
+Region: Europe, City: Bratislava
+Region: Africa, City: Cape Town
+Region: Africa, City: Durban
+Region: Africa, City: Johannesburg
+Region: Europe, City: Barcelona
+Region: Europe, City: Madrid
+Region: Asia Pacific, City: Colombo
+Region: South America, City: Paramaribo
+Region: Europe, City: Gothenburg
+Region: Europe, City: Stockholm
+Region: Europe, City: Geneva
+Region: Europe, City: Zurich
+Region: Asia Pacific, City: Kaohsiung City
+Region: Asia Pacific, City: Taipei
+Region: Africa, City: Dar es Salaam
+Region: Asia Pacific, City: Bangkok
+Region: Asia Pacific, City: Chiang Mai
+Region: Asia Pacific, City: Surat Thani
+Region: South America, City: Port of Spain
+Region: Africa, City: Tunis
+Region: Europe, City: Istanbul
+Region: Europe, City: Izmir
+Region: Africa, City: KAMPALA
+Region: Europe, City: Kyiv
+Region: Middle East, City: Dubai
+Region: Europe, City: Edinburgh
+Region: Europe, City: London
+Region: Europe, City: Manchester
+Region: North America, City: Montgomery
+Region: North America, City: Anchorage
+Region: North America, City: Phoenix
+Region: North America, City: Los Angeles
+Region: North America, City: Sacramento
+Region: North America, City: San Diego
+Region: North America, City: San Francisco
+Region: North America, City: San Jose
+Region: North America, City: Denver
+Region: North America, City: Jacksonville
+Region: North America, City: Miami
+Region: North America, City: Tallahassee
+Region: North America, City: Tampa
+Region: North America, City: Atlanta
+Region: North America, City: Honolulu
+Region: North America, City: Chicago
+Region: North America, City: Indianapolis
+Region: North America, City: Bangor
+Region: North America, City: Boston
+Region: North America, City: Detroit
+Region: North America, City: Minneapolis
+Region: North America, City: Kansas City
+Region: North America, City: St. Louis
+Region: North America, City: Omaha
+Region: North America, City: Las Vegas
+Region: North America, City: Newark
+Region: North America, City: Albuquerque
+Region: North America, City: Buffalo
+Region: North America, City: Charlotte
+Region: North America, City: Durham
+Region: North America, City: Cleveland
+Region: North America, City: Columbus
+Region: North America, City: Oklahoma City
+Region: North America, City: Portland
+Region: North America, City: Philadelphia
+Region: North America, City: Pittsburgh
+Region: North America, City: Sioux Falls
+Region: North America, City: Memphis
+Region: North America, City: Nashville
+Region: North America, City: Austin
+Region: North America, City: Dallas
+Region: North America, City: Houston
+Region: North America, City: McAllen
+Region: North America, City: San Antonio
+Region: North America, City: Salt Lake City
+Region: North America, City: Ashburn
+Region: North America, City: Norfolk
+Region: North America, City: Richmond
+Region: North America, City: Seattle
+Region: Asia Pacific, City: Tashkent
+Region: Asia Pacific, City: Da Nang
+Region: Asia Pacific, City: Hanoi
+Region: Asia Pacific, City: Ho Chi Minh City
+Region: Africa, City: Harare
